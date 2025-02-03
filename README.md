@@ -1,2 +1,2 @@
 # Story-Of-One-Direction
-The story of One Direction
+A website made by a fan of One Direction.
